@@ -1,0 +1,78 @@
+{
+  "msg": {
+    "COMMENT": "IF YOU DECIDE TO USE CUSTOM EMOJIS, USE THE NAME AND THE ID IN MSG, EXAMPLE: ⬜ --> <:progressbar_left_filled:818558865268408341>",
+
+    "ERROR" : "<:no:893792991133712394> ",
+    "SUCCESS" : "<a:check_mark:889738343573774358>",
+
+    "disabled" : "<:no:893792991133712394> ",
+    "enabled" : "<a:check_mark:889738343573774358>",
+
+    "progress_bar": {
+      "leftindicator": "[",
+      "rightindicator": "]",
+
+      "emptyframe": "⬜",
+      "filledframe": "🟧"
+    },
+
+    "playing": "🎶",
+    "pruning": "💬",
+    "equalizer": "🎚",
+    "cleared": "🗑",
+    "leave_on_empty": "🗣️",
+    "time": "⌛",
+    "premium": "💰",
+    "song_by": "💯",
+    "setup": "⚙️",
+    "dj": "🎧",
+    "bot": "🤖",
+    "search": "🔎",
+    "resume": "<:Resume:1192743405806166077>",
+    "pause": "<:pause:1191302518941163530>",
+    "lyrics": "📃",
+    "disk": "📀",
+    "ping": "🏓",
+
+    "rewind": "<:Rewind:1194103474430951514>",
+    "forward": "⏩",
+    "pause_resume": "⏯️",
+    "stop": "⏹️",
+    "previous_track": "⏮️",
+    "skip_track": "⏭️",
+    "replay_track": "🔃",
+    "reduce_volume": "🔉",
+    "raise_volume": "🔊",
+    "toggle_mute": "🔇",
+    "repeat_mode": "🔄",
+    "autoplay_mode": "♾",
+    "shuffle": "🔀",
+    "show_queue": "📑",
+    "show_current_track": "🩸"
+  },
+  "react": {
+
+    "COMMENT": "IF YOU DECIDE TO USE CUSTOM EMOJIS, USE JUST THE ID IN REACT, EXAMPLE: ⏪ --> 818558865268408341",
+
+    "ERROR" : "833101993668771842",
+    "SUCCESS" : "833101995723194437",
+
+
+    "rewind": "<:Rewind:1194103474430951514>",
+    "forward": "⏩",
+    "pause_resume": "⏯️",
+    "stop": "⏹️",
+    "previous_track": "⏮️",
+    "skip_track": "⏭️",
+    "replay_track": "🔃",
+    "reduce_volume": "🔉",
+    "raise_volume": "🔊",
+    "toggle_mute": "🔇",
+    "repeat_mode": "🔄",
+    "autoplay_mode": "♾",
+    "shuffle": "🔀",
+    "show_queue": "📑",
+    "show_current_track": "🩸"
+  }
+
+}

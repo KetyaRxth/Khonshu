@@ -1,0 +1,39 @@
+{
+   "token": "",
+   "prefix": "m?",
+   "ownerIDS": [
+      "733851305759735813",
+      "820513492796702741"
+   ],
+   "memer_api": "fTJLBpkPvyZ",
+   "status": {
+      "text": "Cluster: #0, Shard: #0",
+      "text2": "Watching Over: 3,451",
+      "type": "PLAYING",
+      "url": "https://twitch.tv/milratodiscordbot"
+   },
+   "clientsettings": {
+      "nodes": [
+         {
+            "host": "lava.link",
+            "port": 80,
+            "password": "LAVA"
+         }
+      ]
+   },
+   "spotify": {
+      "clientSecret": "350f574ea8774f4daf53a35edfb2066f",
+      "clientID": "b3a82cb7a58340869564af5b2d3eb695"
+   },
+   "settings": {
+      "leaveOnEmpty_Channel": {
+         "enabled": true,
+         "time_delay": 30000
+      },
+      "LeaveOnEmpty_Queue": {
+         "enabled": true,
+         "time_delay": 30000
+      },
+      "selfDeaf": true
+   }
+}
